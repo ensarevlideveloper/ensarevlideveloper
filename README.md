@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ensarevlideveloper. I´m a Computer Science student at the Karlsruher Institut für Technologie (KIT), Karlsruhe.
+- 👋 Hi, I’m @ensarevlideveloper. I´m a Computer Science M.Sc student at the Technische UniversitätBerlin (TUB), Berlin.
 - 👀 I’m interested in Software Development, Theoretical Computer Science, Economy and Learning Languages.
 - 📫 How to reach me: ensarevli@gmail.com | ensar.evli.de | https://bit.ly/3iV4Let
 
